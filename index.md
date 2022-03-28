@@ -6,3 +6,4 @@
 *mi cuarto proyecto con git
 *mi quinto proyecto co git
 *mi sexto proyecto con git
+*mi septimo proyecto con git
