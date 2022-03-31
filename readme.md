@@ -3,4 +3,5 @@
 Este proyecto es el primero de muchos que voy a hacer
 con git.
 
-**Carlos Feu**, Git lover
+**Carlos Feu**, Git & Larry Plotter Lover
+
